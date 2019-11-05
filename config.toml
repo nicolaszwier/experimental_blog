@@ -1,4 +1,4 @@
 baseURL = "https://nicolasdev.netlify.com/"
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "newsroom"
+theme = "tale-hugo"
